@@ -9,7 +9,6 @@ I'm a Data Engineer, Film Photographer, Fashion Tech Enthusiast, and Creative Te
 
 ### I'm currently learning...
 ### Technical Skills
-Code Python
 
 <!--
 **cmdshftrama/cmdshftrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
