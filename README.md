@@ -1,4 +1,4 @@
-# 👋🏽 Hi, I'm Rama! 👋🏽
+## 👋🏽 Hi, I'm Rama! 👋🏽
 
 **I'm a Data Engineer, Film Photographer, Fashion Tech Enthusiast, and Creative Technologist.**
 
