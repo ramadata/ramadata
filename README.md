@@ -13,11 +13,11 @@
 * Blockchain ⛓
 
 ## Technical Skills
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=ffdd54)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&color=ffdd54)
 ![Shell Script](https://img.shields.io/badge/Code-Shell_Script-informational?style=flat&logo=gnu-bash&color=23121011)
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sqlite&color=23DC322F)
 
-![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=GCP&color=2274A5)
+![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&color=2274A5)
 
 
 ![Git](https://img.shields.io/badge/Version-Git-informational?style=flat&logo=Git&color=FF729F)
