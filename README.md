@@ -9,7 +9,7 @@
 
 
 ## I'm currently learning...
-* Data Engineering & Tools 🧰
+* Data Engineering 💻 & Tools 🧰
 * Computer Vision 🤖
 * Blockchain ⛓
 
