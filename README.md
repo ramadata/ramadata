@@ -1,20 +1,20 @@
 # 👋🏽 Hi, I'm Rama! 👋🏽
 
-I'm a Data Engineer, Film Photographer, Fashion Tech Enthusiast, and Creative Technologist.
+**I'm a Data Engineer, Film Photographer, Fashion Tech Enthusiast, and Creative Technologist.
 
-### Fun Facts
+## Fun Facts
 ***
 * I'm a Brooklyn girl! Born and raised! 🗽
 * I speak English, French, Wolof, and Jola. 🗣️
 * I love some jazz from time to time. 🎷
 
-### I'm currently learning...
+## I'm currently learning...
 ---
 * Data Engineering Tools 🧰
 * Computer Vision 🤖
 * Blockchain ⛓
 
-### Technical Skills
+## Technical Skills
 ---
 
 <!--
