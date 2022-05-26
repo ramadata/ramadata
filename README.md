@@ -15,7 +15,7 @@
 ## Technical Skills
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=ffdd54)
 ![Shell Script](https://img.shields.io/badge/Code-Shell_Script-informational?style=flat&logo=Shell_Script&color=23121011)
-![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&color=23DC322F)
+![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sqlite&color=23DC322F)
 
 ![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=GCP&color=2274A5)
 
