@@ -27,7 +27,7 @@
 
 
 ![Google Cloud Storage](https://img.shields.io/badge/Data-GoogleCloudStorage-informational?style=for-the-badge&logo=GoogleCloudStorage&color=6DD3CE)
-![Google Cloud SDK](https://img.shields.io/badge/Data-Spark-informational?style=for-the-badge&logo=Spark&color=6DD3CE)
+![Google Cloud SDK](https://img.shields.io/badge/Data-Spark-informational?style=for-the-badge&logo=GoogleCloudSDK&color=6DD3CE)
 ![Spark](https://img.shields.io/badge/Data-Spark-informational?style=for-the-badge&logo=Spark&color=6DD3CE)
 
 
