@@ -1,6 +1,8 @@
 # 👋🏽 Hi, I'm Rama! 👋🏽
 
 **I'm a Data Engineer, Film Photographer, Fashion Tech Enthusiast, and Creative Technologist.**
+<br>
+Certifications 🎓 | Microsoft Data Analyst, Certified Scrum Master, Tableau Desktop Specialist, AWS Solution Architect. COBIT 5, ITIL, Agile Certified Practitioner and Microsoft Certified Trainer. Fellowships: Data Science for All - Empowerment and Data Science for All - Women
 
 ## Fun Facts
 * I'm a Brooklyn girl! Born and raised! 🗽
