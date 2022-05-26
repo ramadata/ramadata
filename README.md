@@ -10,7 +10,7 @@ I'm a Data Engineer, Film Photographer, Fashion Tech Enthusiast, and Creative Te
 
 ### I'm currently learning...
 ---
-* Data Engineering Tools 
+* Data Engineering Tools 🧰
 * Computer Vision 🤖
 * Blockchain ⛓
 
