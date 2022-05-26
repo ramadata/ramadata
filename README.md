@@ -34,7 +34,7 @@
 ![Spark](https://img.shields.io/badge/Data-Spark-informational?style=for-the-badge&logo=Spark&color=red)
 
 
-### How To Find Me
+## How To Find Me
 <a href="https://cmdshftrama.github.io/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-solid-2/32/Website-512.png"></a>
 <a href="https://www.linkedin.com/in/rysonko/"><img height="50" src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-512.png"></a>
 
