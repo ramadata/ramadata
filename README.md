@@ -26,9 +26,9 @@
 ![Mac OS](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=MacOS&color=F4A259)
 
 
-![Big Query](https://img.shields.io/badge/Data-Big_Query-informational?style=for-the-badge&logo=GoogleCloudSDK&color=6DD3CE)
-![Google Cloud Storage](https://img.shields.io/badge/Data-Google_Cloud_Storage-informational?style=for-the-badge&logo=GoogleCloudStorage&color=6DD3CE)
-![Google Cloud SDK](https://img.shields.io/badge/Data-Google_Cloud_SDK-informational?style=for-the-badge&logo=GoogleCloudSDK&color=6DD3CE)
+![Big Query](https://img.shields.io/badge/Data-Big_Query-informational?style=for-the-badge&logo=GoogleCloudSDK&color=blue)
+![Google Cloud Storage](https://img.shields.io/badge/Data-Google_Cloud_Storage-informational?style=for-the-badge&logo=GoogleCloudStorage&color=green)
+![Google Cloud SDK](https://img.shields.io/badge/Data-Google_Cloud_SDK-informational?style=for-the-badge&logo=GoogleCloudSDK&color=yellow)
 ![Spark](https://img.shields.io/badge/Data-Spark-informational?style=for-the-badge&logo=Spark&color=red)
 
 
