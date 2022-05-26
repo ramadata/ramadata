@@ -1,5 +1,11 @@
 #  👋 Hi there, I'm Rama! 👋
 
+### Fun Facts
+* I'm a Brooklyn girl! Born and raised! 🗽
+* I speak English, French, Wolof, and Jola. 🗣️
+* I love some jazz from time to time. 🎷
+* 
+
 <!--
 **cmdshftrama/cmdshftrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
