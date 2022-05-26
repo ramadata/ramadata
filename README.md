@@ -24,8 +24,8 @@
 
 ![Git](https://img.shields.io/badge/Version-Git-informational?style=for-the-badge&logo=Git&color=FF729F)
 
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&color=F4E285)
 ![Mac OS](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=MacOS&color=F4A259)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&color=F4E285)
 
 
 ![Big Query](https://img.shields.io/badge/Data-Big_Query-informational?style=for-the-badge&logo=GoogleCloudSDK&color=blue)
