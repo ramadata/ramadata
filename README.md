@@ -17,7 +17,7 @@
 ![Shell Script](https://img.shields.io/badge/Code-Shell_Script-informational?style=for-the-badge&logo=gnu-bash&color=23121011)
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=sqlite&color=23DC322F)
 
-![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&color=2274A5)
+![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&color=blue)
 
 
 ![Git](https://img.shields.io/badge/Version-Git-informational?style=for-the-badge&logo=Git&color=FF729F)
