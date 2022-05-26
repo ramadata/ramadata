@@ -1,8 +1,7 @@
 # 👋🏽 Hi, I'm Rama! 👋🏽
 
 **I'm a Data Engineer, Film Photographer, Fashion Tech Enthusiast, and Creative Technologist.**
-<br></br>
-Certifications 🎓 | Google Cloud Certified Professional Data Engineer
+
 
 ## Fun Facts
 * I'm a Brooklyn girl! Born and raised! 🗽
@@ -54,6 +53,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<br></br>
+Certifications 🎓 | Google Cloud Certified Professional Data Engineer
+
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&color=23FF9900)
 ![Terraform](https://img.shields.io/badge/Config-Terraform-informational?style=flat&logo=Terraform&color=235835CC)
