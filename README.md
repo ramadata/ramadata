@@ -3,7 +3,7 @@
 I'm a Data Engineer, Film Photographer, Fashion Tech Enthusiast, and Creative Technologist.
 
 ### Fun Facts
----
+<hr>
 * I'm a Brooklyn girl! Born and raised! 🗽
 * I speak English, French, Wolof, and Jola. 🗣️
 * I love some jazz from time to time. 🎷
