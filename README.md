@@ -14,19 +14,19 @@
 
 ## Technical Skills
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&color=ffdd54)
-![Shell Script](https://img.shields.io/badge/Code-Shell_Script-informational?style=flat&logo=gnu-bash&color=23121011)
-![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sqlite&color=23DC322F)
+![Shell Script](https://img.shields.io/badge/Code-Shell_Script-informational?style=for-the-badge&logo=gnu-bash&color=23121011)
+![SQL](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=sqlite&color=23DC322F)
 
-![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&color=2274A5)
-
-
-![Git](https://img.shields.io/badge/Version-Git-informational?style=flat&logo=Git&color=FF729F)
-
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&color=F4E285)
-![Mac OS](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=MacOS&color=F4A259)
+![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&color=2274A5)
 
 
-![Spark](https://img.shields.io/badge/Data-Spark-informational?style=flat&logo=Spark&color=6DD3CE)
+![Git](https://img.shields.io/badge/Version-Git-informational?style=for-the-badge&logo=Git&color=FF729F)
+
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&color=F4E285)
+![Mac OS](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=MacOS&color=F4A259)
+
+
+![Spark](https://img.shields.io/badge/Data-Spark-informational?style=for-the-badge&logo=Spark&color=6DD3CE)
 
 
 
