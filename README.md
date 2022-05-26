@@ -16,7 +16,7 @@
 
 
 ### How To Find Me
-<a href="cmdshftrama.github.io" target="_blank"><img align="left" src="https://www.flaticon.com/free-icons/www" height="100" /></a>
+<a href="cmdshftrama.github.io" target="_blank"><img align="left"> src="https://www.flaticon.com/free-icons/www" height="100" /></a>
 <a href="https://www.flaticon.com/free-icons/www" title="www icons">Www icons created by Freepik - Flaticon</a>
 
 <!--
