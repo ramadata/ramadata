@@ -14,8 +14,8 @@
 
 ## Technical Skills
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&color=ffdd54)
-![Shell Script](https://img.shields.io/badge/Code-Shell_Script-informational?style=for-the-badge&logo=gnu-bash&color=23121011)
-![SQL](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=sqlite&color=23DC322F)
+![Shell Script](https://img.shields.io/badge/Code-Shell_Script-informational?style=for-the-badge&logo=gnu-bash&color=green)
+![SQL](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=sqlite&color=blue)
 
 ![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&color=blue)
 
@@ -27,7 +27,7 @@
 
 
 ![Big Query](https://img.shields.io/badge/Data-Big_Query-informational?style=for-the-badge&logo=GoogleCloudSDK&color=blue)
-![Google Cloud Storage](https://img.shields.io/badge/Data-Google_Cloud_Storage-informational?style=for-the-badge&logo=GoogleCloudStorage&color=green)
+![Google Cloud Storage](https://img.shields.io/badge/Data-Google_Cloud_Storage-informational?style=for-the-badge&logo=GoogleCloudStorage&color=23121011)
 ![Google Cloud SDK](https://img.shields.io/badge/Data-Google_Cloud_SDK-informational?style=for-the-badge&logo=GoogleCloudSDK&color=ffdd54)
 ![Spark](https://img.shields.io/badge/Data-Spark-informational?style=for-the-badge&logo=Spark&color=red)
 
