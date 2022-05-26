@@ -3,18 +3,6 @@
 **I'm a Data Engineer, Film Photographer, Fashion Tech Enthusiast, and Creative Technologist.**
 
 
-## Fun Facts
-* I'm a Brooklyn girl! Born and raised! 🗽
-* I speak English, French, Wolof, and Jola. 🗣️
-* I love some jazz from time to time. 🎷
-
-
-## I'm currently learning...
-* Data Engineering 💻 & Tools 🧰
-* Computer Vision 🤖
-* Blockchain ⛓
-
-
 ## Technical Skills
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&color=ffdd54)
 ![Shell Script](https://img.shields.io/badge/Code-Shell_Script-informational?style=for-the-badge&logo=gnu-bash&color=green)
@@ -34,6 +22,15 @@
 ![Google Cloud SDK](https://img.shields.io/badge/Data-Google_Cloud_SDK-informational?style=for-the-badge&logo=GoogleCloudSDK&color=ffdd54)
 ![Spark](https://img.shields.io/badge/Data-Spark-informational?style=for-the-badge&logo=Spark&color=red)
 
+## I'm currently learning...
+* Data Engineering 💻 & Tools 🧰
+* Computer Vision 🤖
+* Blockchain ⛓
+
+## Fun Facts
+* I'm a Brooklyn girl! Born and raised! 🗽
+* I speak English, French, Wolof, and Jola. 🗣️
+* I love some jazz from time to time. 🎷
 
 ## How To Find Me
 <a href="https://cmdshftrama.github.io/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-solid-2/32/Website-512.png"></a>
