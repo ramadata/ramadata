@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Rama! 👋🏽
 
-**I'm a Data Engineer, Film Photographer, Fashion Tech Enthusiast, and Creative Technologist.
+**I'm a Data Engineer, Film Photographer, Fashion Tech Enthusiast, and Creative Technologist.**
 
 ## Fun Facts
 * I'm a Brooklyn girl! Born and raised! 🗽
