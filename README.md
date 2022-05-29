@@ -30,7 +30,7 @@
 ## Fun Facts
 * I'm a Brooklyn girl! Born and raised! 🗽
 * I speak English, French, Wolof, and Jola. 🗣️
-* I love some jazz from time to time. 🎷
+* I love listening to jazz in my free time. 🎷
 
 ## How To Find Me
 <a href="https://cmdshftrama.github.io/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-solid-2/32/Website-512.png"></a>
