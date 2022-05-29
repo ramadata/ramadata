@@ -53,11 +53,12 @@ Here are some ideas to get you started:
 
 
 <br></br>
-Certifications 🎓 | Google Cloud Certified Professional Data Engineer
+Certifications 🎓 | Google Cloud Certified Professional Data Engineer || TECHNICAL SKILLS
 
 
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&color=23FF9900)
-![Terraform](https://img.shields.io/badge/Config-Terraform-informational?style=flat&logo=Terraform&color=235835CC)
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&color=23FF9900) || CLOUD SECTION
+![Terraform](https://img.shields.io/badge/Config-Terraform-informational?style=flat&logo=Terraform&color=235835CC) || CONFIG SECTION
+
 ![Hadoop](https://img.shields.io/badge/Data-Hadoop-informational?style=flat&logo=Hadoop&color=E7DFC6)
 ![Hive](https://img.shields.io/badge/Data-Hive-informational?style=flat&logo=Hive&color=F7A278)
 ![Splunk](https://img.shields.io/badge/Data-Splunk-informational?style=flat&logo=Splunk&color=351E29)
