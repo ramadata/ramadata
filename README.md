@@ -2,6 +2,7 @@
 
 **I'm a Data Engineer, Film Photographer, Fashion Tech Enthusiast, and Creative Technologist.**
 
+Certifications 🎓 | Google Cloud Certified Professional Data Engineer
 
 ## Technical Skills
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&color=ffdd54)
@@ -53,7 +54,6 @@ Here are some ideas to get you started:
 
 
 <br></br>
-Certifications 🎓 | Google Cloud Certified Professional Data Engineer || TECHNICAL SKILLS
 
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&color=23FF9900) || CLOUD SECTION
