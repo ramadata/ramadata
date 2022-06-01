@@ -57,7 +57,8 @@ Here are some ideas to get you started:
 
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&color=23FF9900) || CLOUD SECTION
-![Terraform](https://img.shields.io/badge/Config-Terraform-informational?style=flat&logo=Terraform&color=235835CC) || CONFIG SECTION
+![Terraform](https://img.shields.io/badge/Config-Terraform-informational?style=for-the-badge&logo=Terraform&color=235835CC) || CONFIG SECTION
+![Snowflake](https://img.shields.io/badge/Cloud-Snowflake-informational?style=for-the-badge&logo=Snowflake&color=89CFF0) || CLOUD SECTION 
 
 ![Hadoop](https://img.shields.io/badge/Data-Hadoop-informational?style=flat&logo=Hadoop&color=E7DFC6)
 ![Hive](https://img.shields.io/badge/Data-Hive-informational?style=flat&logo=Hive&color=F7A278)
