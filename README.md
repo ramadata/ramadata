@@ -1,6 +1,6 @@
-# 👋🏽 Hi, I'm Rama! 👋🏽
+# Welcome
 
-**I'm a Data Engineer, Film Photographer, Fashion Tech Enthusiast, and Creative Technologist.**
+Hi 👋🏽, I'm Rama a **Data Engineer, Fashion Tech Enthusiast, and Creative Technologist.**
 
 Certifications 🎓 | Google Cloud Certified Professional Data Engineer
 
