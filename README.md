@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Rama! 👋🏽
 
-A Data Engineer, Fashion Tech Enthusiast, and Creative Technologist who is passionate about leveraging data fluency and technology to create new services and products.
+A Data Engineer, Fashion Tech Enthusiast, and Creative Technologist who is passionate about leveraging data fluency and technology to build new experiences, services, products. 
 
 Certifications 🎓 | Google Cloud Certified Professional Data Engineer
 
