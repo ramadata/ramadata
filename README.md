@@ -25,7 +25,7 @@ Certifications 🎓 | Google Cloud Certified Professional Data Engineer
 ![Spark](https://img.shields.io/badge/Data-Spark-informational?style=for-the-badge&logo=Spark&color=red)
 
 ## I'm currently learning...
-* Data Engineering 💻 & Tools 🧰
+* Data Engineering ♻️ & Tools 🧰
 * Computer Vision 🤖
 * Blockchain ⛓
 
