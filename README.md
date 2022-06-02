@@ -11,6 +11,7 @@ Certifications 🎓 | Google Cloud Certified Professional Data Engineer
 
 ![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&color=blue)
 
+![Terraform](https://img.shields.io/badge/Config-Terraform-informational?style=for-the-badge&logo=Terraform&color=235835CC)
 
 ![Git](https://img.shields.io/badge/Version-Git-informational?style=for-the-badge&logo=Git&color=FF729F)
 
@@ -57,7 +58,6 @@ Here are some ideas to get you started:
 
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&color=23FF9900) || CLOUD SECTION
-![Terraform](https://img.shields.io/badge/Config-Terraform-informational?style=for-the-badge&logo=Terraform&color=235835CC) || CONFIG SECTION
 ![Snowflake](https://img.shields.io/badge/Cloud-Snowflake-informational?style=for-the-badge&logo=Snowflake&color=89CFF0) || CLOUD SECTION 
 
 ![Hadoop](https://img.shields.io/badge/Data-Hadoop-informational?style=flat&logo=Hadoop&color=E7DFC6)
