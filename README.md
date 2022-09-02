@@ -1,6 +1,7 @@
 # 👋🏽
 
-<b>Certifications</b> 🎓 | Google Cloud Certified Professional Data Engineer
+<b>Certifications</b> 🎓 | 
+Google Cloud Certified Professional Data Engineer
 
 ## Technical Skills
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&color=ffdd54)
