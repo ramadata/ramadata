@@ -1,6 +1,6 @@
 # 👋🏽
 
-<b>Certifications</b> 🎓 | 
+<b>Certifications</b> 🎓 | <br>
 Google Cloud Certified Professional Data Engineer
 
 ## Technical Skills
