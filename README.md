@@ -2,7 +2,7 @@
 
 Hello! I'm a Data Engineer, Creative Technologist, and Fashion Tech Enthusiast who is passionate about leveraging data fluency and technology to develop new solutions, experiences, services, and products all backed by data. 
 
-Certifications 🎓 | Google Cloud Certified Professional Data Engineer
+<b>Certifications</b> 🎓 | Google Cloud Certified Professional Data Engineer
 
 ## Technical Skills
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&color=ffdd54)
