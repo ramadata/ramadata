@@ -24,9 +24,8 @@ Google Cloud Certified Professional Data Engineer
 ![Spark](https://img.shields.io/badge/Data-Spark-informational?style=for-the-badge&logo=Spark&color=red)
 
 ## I'm currently learning...
-* Computer Vision 🤖
 * Blockchain ⛓
-
+* AWS ☁️
 ## Fun Facts
 * I'm a Brooklyn girl! Born and raised! 🗽
 * I speak English, French, Wolof, and Jola. 🗣️
