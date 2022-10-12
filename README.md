@@ -26,10 +26,7 @@ Google Cloud Certified Professional Data Engineer
 ## I'm currently learning...
 * Blockchain ⛓
 * AWS ☁️
-## Fun Facts
-* I'm a Brooklyn girl! Born and raised! 🗽
-* I speak English, French, Wolof, and Jola. 🗣️
-* I love listening to music in my free time. 🎶
+
 ## How To Find Me
 <a href="https://rsondata.github.io/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-solid-2/32/Website-512.png"></a>
 <a href="https://www.linkedin.com/in/rysonko/"><img height="50" src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-512.png"></a>
