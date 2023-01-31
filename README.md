@@ -22,11 +22,11 @@ Google Cloud Certified Professional Data Engineer
 ![Big Query](https://img.shields.io/badge/Data-Big_Query-informational?style=for-the-badge&logo=GoogleCloudSDK&color=blue)
 ![Google Cloud Storage](https://img.shields.io/badge/Data-Google_Cloud_Storage-informational?style=for-the-badge&logo=GoogleCloudStorage&color=23121011)
 ![Google Cloud SDK](https://img.shields.io/badge/Data-Google_Cloud_SDK-informational?style=for-the-badge&logo=GoogleCloudSDK&color=ffdd54)
-![Spark](https://img.shields.io/badge/Data-Spark-informational?style=for-the-badge&logo=Spark&color=red)
+
 
 ## I'm currently learning...
-* Blockchain ⛓
 * AWS ☁️
+* Terraform 🔧
 
 ## How To Find Me
 <a href="https://rsondata.github.io/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-solid-2/32/Website-512.png"></a>
