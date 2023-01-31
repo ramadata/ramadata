@@ -8,9 +8,9 @@ Google Cloud Certified Professional Data Engineer
 ![Shell Script](https://img.shields.io/badge/Code-Shell_Script-informational?style=for-the-badge&logo=gnu-bash&color=green)
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=sqlite&color=blue)
 
-![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&color=blue) 
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&color=blue)
 
+![Apache Airflow](https://img.shields.io/badge/Config-Apache_Airflow-informational?style=for-the-badge&logo=Apache%20Airflow&logoColor=red)
 ![Terraform](https://img.shields.io/badge/Config-Terraform-informational?style=for-the-badge&logo=Terraform&color=7851A9)
 
 ![Git](https://img.shields.io/badge/Version-Git-informational?style=for-the-badge&logo=Git&color=FF729F)
