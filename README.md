@@ -10,7 +10,7 @@ Google Cloud Certified Professional Data Engineer
 
 ![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&color=blue)
 
-![Apache Airflow](https://img.shields.io/badge/Config-Apache_Airflow-informational?style=for-the-badge&logo=Apache%20Airflow&logoColor=red)
+![Apache Airflow](https://img.shields.io/badge/Config-Apache_Airflow-informational?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Config-Terraform-informational?style=for-the-badge&logo=Terraform&color=7851A9)
 
 ![Git](https://img.shields.io/badge/Version-Git-informational?style=for-the-badge&logo=Git&color=FF729F)
