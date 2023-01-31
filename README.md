@@ -27,6 +27,7 @@ Google Cloud Certified Professional Data Engineer
 ## I'm currently learning...
 * AWS ☁️
 * Terraform 🔧
+* Snowflake ❄️
 
 ## How To Find Me
 <a href="https://rsondata.github.io/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-solid-2/32/Website-512.png"></a>
