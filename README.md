@@ -7,21 +7,22 @@ Google Cloud Certified Professional Data Engineer
 ![Python](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=yellow&color=navy)
 ![Bash](https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=gnu%20bash&logoColor=white&color=black)
 ![SQL](https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=blue)
-
 ![NumPy](https://img.shields.io/badge/numpy-informational?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/pandas-informational?style=for-the-badge&logo=pandas&color=purple)
 
 
 ![Airflow](https://img.shields.io/badge/airflow-informational?style=for-the-badge&logo=apache%20airflow&color=teal)
+![Spark](https://img.shields.io/badge/spark-informational?style=for-the-badge&logo=apache%20spark&color=black)
 
-![Terraform](https://img.shields.io/badge/Config-Terraform-informational?style=for-the-badge&logo=Terraform&color=7851A9)
 
-![Git](https://img.shields.io/badge/Version-Git-informational?style=for-the-badge&logo=Git&color=FF729F)
+![Git](https://img.shields.io/badge/git-informational?style=for-the-badge&logo=git&logoColor=orange&color=grey)
+![Snowflake](https://img.shields.io/badge/snowflake-informational?style=for-the-badge&logo=snowflake&logoColor=%2389CFF0&color=black)
 
-![Mac OS](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=MacOS&color=F4A259)
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&color=F4E285)
+
 
 ![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&color=blue)
+![Azure](https://img.shields.io/badge/azure-informational?style=for-the-badge&logo=microsoft)
+
 ![Big Query](https://img.shields.io/badge/Data-Big_Query-informational?style=for-the-badge&logo=GoogleCloudSDK&color=blue)
 ![Google Cloud Storage](https://img.shields.io/badge/Data-Google_Cloud_Storage-informational?style=for-the-badge&logo=GoogleCloudStorage&color=23121011)
 ![Google Cloud SDK](https://img.shields.io/badge/Data-Google_Cloud_SDK-informational?style=for-the-badge&logo=GoogleCloudSDK&color=ffdd54)
@@ -57,7 +58,7 @@ Here are some ideas to get you started:
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&color=23FF9900) || CLOUD SECTION
 ![Snowflake](https://img.shields.io/badge/Cloud-Snowflake-informational?style=for-the-badge&logo=Snowflake&color=89CFF0) || CLOUD SECTION 
-
+![Terraform](https://img.shields.io/badge/Config-Terraform-informational?style=for-the-badge&logo=Terraform&color=7851A9)
 ![Hadoop](https://img.shields.io/badge/Data-Hadoop-informational?style=flat&logo=Hadoop&color=E7DFC6)
 ![Hive](https://img.shields.io/badge/Data-Hive-informational?style=flat&logo=Hive&color=F7A278)
 ![Splunk](https://img.shields.io/badge/Data-Splunk-informational?style=flat&logo=Splunk&color=351E29)
