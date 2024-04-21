@@ -9,8 +9,6 @@ Google Cloud Certified Professional Data Engineer
 ![SQL](https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=blue)
 ![NumPy](https://img.shields.io/badge/numpy-informational?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/pandas-informational?style=for-the-badge&logo=pandas&color=purple)
-
-
 ![Airflow](https://img.shields.io/badge/airflow-informational?style=for-the-badge&logo=apache%20airflow&color=teal)
 ![Spark](https://img.shields.io/badge/spark-informational?style=for-the-badge&logo=apache%20spark&color=black)
 ![SQLite](https://img.shields.io/badge/sqlite-informational?style=for-the-badge&logo=sqlite)
