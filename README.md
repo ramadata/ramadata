@@ -3,9 +3,10 @@
 ## Certifications 🎓
 Google Cloud Certified Professional Data Engineer
 
-## Technical Skills
-![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&color=ffdd54)
-![Shell Script](https://img.shields.io/badge/Code-Shell_Script-informational?style=for-the-badge&logo=gnu-bash&color=green)
+## Tools
+![Python](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=gnu%20bash&logoColor=white&color=black)
+
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=sqlite&color=blue)
 
 ![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&color=blue)
