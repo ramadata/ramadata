@@ -11,7 +11,7 @@ Google Cloud Certified Professional Data Engineer
 ![Pandas](https://img.shields.io/badge/pandas-informational?style=for-the-badge&logo=pandas&color=purple)
 ![Airflow](https://img.shields.io/badge/airflow-informational?style=for-the-badge&logo=apache%20airflow&color=teal)
 ![Spark](https://img.shields.io/badge/spark-informational?style=for-the-badge&logo=apache%20spark&color=black)
-![SQLite](https://img.shields.io/badge/sqlite-informational?style=for-the-badge&logo=sqlite)
+![SQLite](https://img.shields.io/badge/sqlite-informational?style=for-the-badge&logo=sqlite&color=%203354)
 ![MySql](https://img.shields.io/badge/mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=orange)
 ![PostgresSQL](https://img.shields.io/badge/Postgresql-informational?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Big Query](https://img.shields.io/badge/Data-Big_Query-informational?style=for-the-badge&logo=GoogleCloudSDK&color=blue)
@@ -20,7 +20,7 @@ Google Cloud Certified Professional Data Engineer
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-informational?style=for-the-badge&logo=google%20cloud&color=yellow)
 ![Azure](https://img.shields.io/badge/azure-informational?style=for-the-badge&logo=microsoft)
 ![Pycharm](https://img.shields.io/badge/pycharm-informational?style=for-the-badge&logo=pycharm&color=green)
-![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-informational?style=for-the-badge&logo=visual%20studio%20code)
+![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-informational?style=for-the-badge&logo=visual%20studio%20code&color=%233e3e42)
 ![Jupyter](https://img.shields.io/badge/jupyter-informational?style=for-the-badge&logo=jupyter&color=grey)
 
 
