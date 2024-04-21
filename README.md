@@ -15,19 +15,12 @@ Google Cloud Certified Professional Data Engineer
 ![Spark](https://img.shields.io/badge/spark-informational?style=for-the-badge&logo=apache%20spark&color=black)
 ![SQLite](https://img.shields.io/badge/sqlite-informational?style=for-the-badge&logo=sqlite)
 ![MySql](https://img.shields.io/badge/mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=orange)
-
-
-![Git](https://img.shields.io/badge/git-informational?style=for-the-badge&logo=git&logoColor=orange&color=grey)
-![Snowflake](https://img.shields.io/badge/snowflake-informational?style=for-the-badge&logo=snowflake&logoColor=%2389CFF0&color=black)
-
-
-
-![Google Cloud](https://img.shields.io/badge/google%20cloud-informational?style=for-the-badge&logo=google%20cloud&color=%23FF0000)
-![Azure](https://img.shields.io/badge/azure-informational?style=for-the-badge&logo=microsoft)
-
+![PostgresSQL](https://img.shields.io/badge/Postgresql-informational?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Big Query](https://img.shields.io/badge/Data-Big_Query-informational?style=for-the-badge&logo=GoogleCloudSDK&color=blue)
-![Google Cloud Storage](https://img.shields.io/badge/Data-Google_Cloud_Storage-informational?style=for-the-badge&logo=GoogleCloudStorage&color=23121011)
-![Google Cloud SDK](https://img.shields.io/badge/Data-Google_Cloud_SDK-informational?style=for-the-badge&logo=GoogleCloudSDK&color=ffdd54)
+![Snowflake](https://img.shields.io/badge/snowflake-informational?style=for-the-badge&logo=snowflake&logoColor=%2389CFF0&color=black)
+![Git](https://img.shields.io/badge/git-informational?style=for-the-badge&logo=git&logoColor=orange&color=grey)
+![Google Cloud](https://img.shields.io/badge/google%20cloud-informational?style=for-the-badge&logo=google%20cloud&color=yellow)
+![Azure](https://img.shields.io/badge/azure-informational?style=for-the-badge&logo=microsoft)
 
 
 ## I'm currently learning...
