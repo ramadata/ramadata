@@ -22,7 +22,7 @@ Google Cloud Certified Professional Data Engineer
 
 
 
-![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&color=blue)
+![Google Cloud](https://img.shields.io/badge/google%20cloud-informational?style=for-the-badge&logo=google%20cloud&color=%23FF0000)
 ![Azure](https://img.shields.io/badge/azure-informational?style=for-the-badge&logo=microsoft)
 
 ![Big Query](https://img.shields.io/badge/Data-Big_Query-informational?style=for-the-badge&logo=GoogleCloudSDK&color=blue)
