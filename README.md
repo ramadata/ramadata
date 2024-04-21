@@ -4,14 +4,16 @@
 Google Cloud Certified Professional Data Engineer
 
 ## Tools
-![Python](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=yellow&color=navy)
 ![Bash](https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=gnu%20bash&logoColor=white&color=black)
+![SQL](https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=blue)
 
-![SQL](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=sqlite&color=blue)
+![NumPy](https://img.shields.io/badge/numpy-informational?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/pandas-informational?style=for-the-badge&logo=pandas&color=purple)
 
-![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&color=blue)
 
-![Apache Airflow](https://img.shields.io/badge/Config-Apache_Airflow-informational?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/airflow-informational?style=for-the-badge&logo=apache%20airflow&color=teal)
+
 ![Terraform](https://img.shields.io/badge/Config-Terraform-informational?style=for-the-badge&logo=Terraform&color=7851A9)
 
 ![Git](https://img.shields.io/badge/Version-Git-informational?style=for-the-badge&logo=Git&color=FF729F)
@@ -19,7 +21,7 @@ Google Cloud Certified Professional Data Engineer
 ![Mac OS](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=MacOS&color=F4A259)
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&color=F4E285)
 
-
+![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&color=blue)
 ![Big Query](https://img.shields.io/badge/Data-Big_Query-informational?style=for-the-badge&logo=GoogleCloudSDK&color=blue)
 ![Google Cloud Storage](https://img.shields.io/badge/Data-Google_Cloud_Storage-informational?style=for-the-badge&logo=GoogleCloudStorage&color=23121011)
 ![Google Cloud SDK](https://img.shields.io/badge/Data-Google_Cloud_SDK-informational?style=for-the-badge&logo=GoogleCloudSDK&color=ffdd54)
