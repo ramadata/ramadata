@@ -7,10 +7,12 @@ Google Cloud Certified Professional Data Engineer
 ![Python](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=yellow&color=navy)
 ![Bash](https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=gnu%20bash&logoColor=white&color=black)
 ![SQL](https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sqlalchemy&logoColor=white&color=blue)
+![ENV](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-informational?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/pandas-informational?style=for-the-badge&logo=pandas&color=purple)
 ![Airflow](https://img.shields.io/badge/airflow-informational?style=for-the-badge&logo=apache%20airflow&color=teal)
 ![Spark](https://img.shields.io/badge/spark-informational?style=for-the-badge&logo=apache%20spark&color=black)
+![DBEAVER](https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-informational?style=for-the-badge&logo=sqlite&color=%23203354)
 ![MySql](https://img.shields.io/badge/mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=orange)
 ![PostgresSQL](https://img.shields.io/badge/Postgresql-informational?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -20,7 +22,7 @@ Google Cloud Certified Professional Data Engineer
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-informational?style=for-the-badge&logo=google%20cloud&color=yellow)
 ![Azure](https://img.shields.io/badge/azure-informational?style=for-the-badge&logo=microsoft)
 ![Pycharm](https://img.shields.io/badge/pycharm-informational?style=for-the-badge&logo=pycharm&color=green)
-![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-informational?style=for-the-badge&logo=visual%20studio%20code&color=%233e3e42)
+[![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-informational?style=for-the-badge&logo=visual%20studio%20code&color=%233e3e42)](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-informational?style=for-the-badge&logo=jupyter&color=grey)
 
 
