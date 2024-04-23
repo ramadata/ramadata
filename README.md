@@ -22,7 +22,7 @@ Google Cloud Certified Professional Data Engineer
 ![Snowflake](https://img.shields.io/badge/snowflake-informational?style=for-the-badge&logo=snowflake&logoColor=%2389CFF0&color=black)
 ![Git](https://img.shields.io/badge/git-informational?style=for-the-badge&logo=git&logoColor=orange&color=grey)
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-informational?style=for-the-badge&logo=google%20cloud&color=yellow)
-![Azure](https://img.shields.io/badge/azure-informational?style=for-the-badge&logo=microsoft)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/pycharm-informational?style=for-the-badge&logo=pycharm&color=green)
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-informational?style=for-the-badge&logo=visual%20studio%20code&color=%233e3e42)
 ![Jupyter](https://img.shields.io/badge/jupyter-informational?style=for-the-badge&logo=jupyter&color=grey)
