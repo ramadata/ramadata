@@ -25,7 +25,7 @@ Google Cloud Certified Professional Data Engineer
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/pycharm-informational?style=for-the-badge&logo=pycharm&color=green)
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-informational?style=for-the-badge&logo=visual%20studio%20code&color=%233e3e42)
-![Jupyter](https://img.shields.io/badge/jupyter-informational?style=for-the-badge&logo=jupyter&color=grey)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 
 
