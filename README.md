@@ -30,13 +30,13 @@ Google Cloud Certified Professional Data Engineer
 
 
 
-- 🔭 I’m currently working on
-- F1 Visualizer
-- Maison Matcha Game
+🔭 I’m currently working on
+F1 Race Visualizer 🏎
+Maison Matcha Game 🍵
 
 - 🌱 I’m currently learning
-- LLMs
-- How to Contribute to Open-Source Projects
+LLMs
+How to Contribute to Open-Source Projects
 
 ## How To Find Me
 <a href="https://rsondata.github.io/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-solid-2/32/Website-512.png"></a>
