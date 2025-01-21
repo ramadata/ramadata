@@ -34,7 +34,7 @@ Google Cloud Certified Professional Data Engineer
 - F1 Race Visualizer 🏎
 - Maison Matcha Game 🍵
 
-- 🌱 I’m currently learning
+🌱 I’m currently learning
 - LLMs
 - How to Contribute to Open-Source Projects
 
