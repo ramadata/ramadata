@@ -40,7 +40,7 @@ Google Cloud Certified Professional Data Engineer
 
 ## How To Find Me
 <a href="https://ramadata.github.io/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-solid-2/32/Website-512.png"></a>
-<a href="https://bsky.app/profile/cmdshftrama.bsky.social"><img height="50" src="https://static.wikia.nocookie.net/logopedia/images/c/cd/Bluesky_app_icon.svg/revision/latest?cb=20231223183729"></a>
+<a href="https://bsky.app/profile/cmdshftrama.bsky.social"><img height="49" src="https://static.wikia.nocookie.net/logopedia/images/c/cd/Bluesky_app_icon.svg/revision/latest?cb=20231223183729"></a>
 <a href="https://www.linkedin.com/in/ramadata/"><img height="50" src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-512.png"></a>
 
 
