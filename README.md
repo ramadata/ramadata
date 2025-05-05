@@ -32,7 +32,7 @@ Google Cloud Certified Professional Data Engineer
 
 🔭 I’m currently working on
 
-- Contributing to the Pandas package ![Pandas](https://img.shields.io/badge/pandas-informational?style=for-the-badge&logo=pandas&color=purple)
+- Contributing to the Pandas package
 - F1 Race Visualizer 🏎
 -  Maison Matcha Game 🍵
 
