@@ -31,12 +31,13 @@ Google Cloud Certified Professional Data Engineer
 
 
 🔭 I’m currently working on
+
+- Fixing bugs for the Pandas package
 - F1 Race Visualizer 🏎
-- Maison Matcha Game 🍵
+-  Maison Matcha Game 🍵
 
 🌱 I’m currently learning
-- LLMs
-- How to Contribute to Open-Source Projects
+- HackTheBox
 
 ## How To Find Me
 <a href="https://ramadata.vercel.app/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-solid-2/32/Website-512.png"></a>
