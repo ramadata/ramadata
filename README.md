@@ -8,7 +8,6 @@ Google Cloud Certified Professional Data Engineer
 ![Bash](https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=gnu%20bash&logoColor=white&color=black)
 ![SQL](https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=zaim&logoColor=white&color=FF0000)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F.svg?style=for-the-badge&logo=Scala&logoColor=white)
 ![ENV](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-informational?style=for-the-badge&logo=pandas&color=purple)
